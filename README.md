@@ -1,0 +1,2 @@
+# Pass
+Pasword bahasa bash
