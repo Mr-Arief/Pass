@@ -1,5 +1,4 @@
-# Pass
-Pasword bahasa bash
+[Clik here](https://github.com/Mr-Gabut)
 # How to use
 ```
 $ cd Pass
